@@ -1,0 +1,7 @@
+displayName = Easy Storage
+author = Astra Gravastar
+version = 0.1
+
+hideCode = true
+hideResources = true
+includeSource = false

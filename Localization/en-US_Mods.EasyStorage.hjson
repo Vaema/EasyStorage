@@ -1,0 +1,13 @@
+Tiles.StorageContainerTile.MapEntry: Storage Container Tile
+
+Items: {
+	StorageContainerItem: {
+		DisplayName: Storage Container Item
+		Tooltip: ""
+	}
+
+	StorageTerminal: {
+		DisplayName: Storage Terminal
+		Tooltip: ""
+	}
+}
